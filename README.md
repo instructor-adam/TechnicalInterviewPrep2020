@@ -27,7 +27,7 @@ Each assignment has the following format:
 Date given: description. Due date. Assignment name.
 
 The due date means before class on that date. So if a homework is due
-on 7/17, then it is due before 10:00 AM on 7/17.
+on 1/10, then it is due before 10:00 AM on 1/10.
 
 For any assignment where I ask you to solve a problem, please post
 your solution in your github using the path
