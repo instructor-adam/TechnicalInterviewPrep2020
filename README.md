@@ -85,6 +85,9 @@ text file containing the following:
 ### Classwork
 
 1. Intro Slides <https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing>
+1. Interview Prep Slides:
+   - [Proactive Communication](https://drive.google.com/open?id=1jzfLrgcxBbDnekVwDtZv4xMFKuz5yBs-LjRqWUQTIMk)
+   - [Algorithm Design](https://drive.google.com/open?id=1-kZNVB4kcPk-GOg-v84889Zcp_veJUrAiDWKSEqfH9c)
 2. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
 3. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>
 
