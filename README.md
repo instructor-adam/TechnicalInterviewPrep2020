@@ -1,20 +1,15 @@
 # Hunter College: TTP Technical Interview Camp Winter 2020 (Computer Science)
 
-Class Days and Class Times: Monday - Friday, 10:00 AM - 3:00 PM
-
-Dates: January 2nd, 2020 (Thursday) - January 24th, 2020 (Friday)
-
-Room Number: Hunter North 536
-
-Lead Instructor: Adam Ibrahim
-
-Emails: instructor.ibrahim.adam@gmail.com
-
-Slack Workspace: <https://techinterviewprep2020.slack.com/>
+Class Days and Class Times: Monday - Friday, 10:00 AM - 3:00 PM  
+Dates: January 2nd, 2020 (Thursday) - January 24th, 2020 (Friday)  
+Room Number: Hunter North 536  
+Lead Instructor: Adam Ibrahim  
+Emails: instructor.ibrahim.adam@gmail.com  
+Slack Workspace: <https://techinterviewprep2020.slack.com/>  
 
 ## Repo Structure
 
-- The README contains your assignments
+- This README contains your assignments
 - The `assignments` folder is where you will put your work when you
   submit a pull request to me. This is also where I will post
   solutions after the classwork/homework should have already been
@@ -29,11 +24,34 @@ Date given: description. Due date. Assignment name.
 The due date means before class on that date. So if a homework is due
 on 1/10, then it is due before 10:00 AM on 1/10.
 
-For any assignment where I ask you to solve a problem, please post
-your solution in your github using the path
-`cs/week#/day#/assignment-name`, where the week and day correspond to
-the *due date* of the assignment. For example, assignment 3 would be
-placed in `cs/week2/day1/hash-implementations`. 
+For any assignment where I ask you to solve a problem, please submit
+your program to the github using the directions below under
+'submitting HW'.
+
+### Submitting HW
+
+To get setup to submit homework, **fork this repository**.
+
+Then do the following when you want to do homework
+
+- Pull from my repository to your fork. There will be files in the
+  correct location for the work to do that day. If you are submitting
+  homework *due on* 1/5 (not assigned 1/5), for example, which is the
+  1st day of the 2nd week of the bootcamp, then you would find the
+  file at `week2/day1/assignment-name`. In general, the path for a
+  file is `week#/day#/assignment-name`. The same is true for
+  submitting classwork we did on 1/5. You would look for the correct
+  file under `week2/day1/assignment-name`.
+- Do the work.
+- When you are ready to start comitting work to your fork, place your
+  work in the appropriate file, and change it. Unless I say otherwise,
+  you can submit your solutions as Javascript of C++ files. If you
+  need to change the file extension of the file, that is fine. Just
+  don't change the base name of the file. Example: you can change
+  `implement-hash-table.cpp` to `implement-hash-table.js` 
+  but not to `hash-tbl.cpp`. 
+- Commit your changes, push them to your fork, and then submit a pull
+  request from your fork against my repository.
 
 ### What if the problem is too hard?
 
@@ -84,13 +102,23 @@ text file containing the following:
 
 ### Classwork
 
+Week 1, Day 1
+
 1. Intro Slides <https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing>
-1. Interview Prep Slides:
+2. Interview Prep Slides:
    - [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
    - [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
-2. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
-3. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>
+
+Week 2, Day 1
+
+1. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
+2. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>. `implement-hash-map`.
 
 ### Assignment Schedule
 
 
+Week 1, Day 1
+
+1. p2p problems.
+    - `p2p-problem-1`
+    - `p2p-problem-2`
