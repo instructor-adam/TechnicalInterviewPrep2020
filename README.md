@@ -122,8 +122,7 @@ Week 2, Day 1
 1. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
 2. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>. `implement-hash-map`.
 
-### Assignment Schedule
-
+### Homework
 
 Week 1, Day 1
 
