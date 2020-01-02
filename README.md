@@ -56,9 +56,11 @@ Then do the following when you want to do homework
 ### What if the problem is too hard?
 
 If you are not able to solve the problem at home then post up a
-text file containing the following:
+program containing the following:
 
-- a description of the approach(s) you thought of
+As comments:
+
+- a description of the approach(es) you thought of
 - a description of where you got stuck on these approaches. For
   example:
     - Was there a flaw in the approach you found and you had to think
@@ -66,7 +68,13 @@ text file containing the following:
       it?
     - Were you just unable to implement the approach? Which part(s)
       were you unable to implement, and why?
+
+As code:
+
 - whatever part of a program you wrote if you wrote one
+
+I prefer you submit something that runs, but sometimes we don't get
+that far. Whether it runs or not, just submit what you have.
 
 ### Syllabus
 
