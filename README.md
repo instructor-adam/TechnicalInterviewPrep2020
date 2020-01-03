@@ -126,6 +126,22 @@ Week 2, Day 1
 
 Week 1, Day 1
 
-1. p2p problems.
+1. p2p problems. **Due 1/2.** Remember to submit work 1/3, after p2p
+   finishes.
     - `p2p-problem-1`
     - `p2p-problem-2`
+
+Week 1, Day 2
+
+1. p2p problems. **Due 1/5.** Remember to submit work 1/6, after p2p
+   finishes.
+    - `p2p-problem-1`
+    - `p2p-problem-2`
+2. Read intro material on hash tables
+   [here](https://leetcode.com/explore/learn/card/hash-table/) **Due
+   1/5.**
+3. Read the [lists review
+   packet](https://drive.google.com/open?id=1Ro83seOpzj7Yz4gcWz84qxg3CGhiArT8uB_xB9onZO0), if you need a refresher on arrays, or linked lists. **Due 1/9.** 
+4. Do [Kth largest element in an
+   array](https://leetcode.com/problems/kth-largest-element-in-an-array/).
+   **Due 1/9.** `kth-largest`.
