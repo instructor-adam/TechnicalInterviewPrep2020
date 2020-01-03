@@ -1,0 +1,54 @@
+// Problem 1
+class Solution {
+public:
+    void incrementVal(vector<vector<int>>& some_inp, vector<int> index){
+        for(int k = 0; k < some_inp[0].size(); k++){
+                some_inp[index[0]][k] += 1;
+        }
+        for(int l = 0; l < some_inp.size(); l++){
+                some_inp[l][index[1]] += 1;
+        }
+
+    }
+
+    // instantiates matrix, then calls helper function, then increments count
+    int oddCells(int n, int m, vector<vector<int>>& indices) {  
+        vector<vector<int>> cells;
+        int count = 0;
+        
+        cells.resize(n);
+        for(int i = 0; i < cells.size(); i++){
+            cells[i].resize(m);
+        }
+        for(int j = 0; j < indices.size(); j++){
+            incrementVal(cells, indices[j]); 
+        }
+        
+        for(int p = 0; p < cells.size(); p++){
+            for(int q = 0; q < cells[0].size(); q++){
+                if(!(cells[p][q]%2==0)){
+                    count++;
+                }
+    //cout << cells[p][q] << " ";        
+            }
+    //cout << endl;
+        } 
+        
+        return count;
+    }
+};
+
+
+// Problem 2
+class Solution {
+public:
+    string toLowerCase(string str) {
+        string res = str;
+        for(int i  = 0; i < res.size(); i++){
+            if(res[i] < 91 && res[i] > 64){
+                res[i] = res[i] + 32;
+            }
+        }
+        return res;
+    }
+};
