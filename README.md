@@ -124,14 +124,14 @@ Week 2, Day 1
 
 ### Homework
 
-Week 1, Day 1
+Week 1, Day 1 (1/3)
 
 1. p2p problems. **Due 1/2.** Remember to submit work 1/3, after p2p
    finishes.
     - `p2p-problem-1`
     - `p2p-problem-2`
 
-Week 1, Day 2
+Week 1, Day 2 (1/4)
 
 1. p2p problems. **Due 1/6.** Remember to submit work 1/7, after p2p
    finishes.
@@ -145,3 +145,34 @@ Week 1, Day 2
 4. Do [Kth largest element in an
    array](https://leetcode.com/problems/kth-largest-element-in-an-array/).
    **Due 1/9.** `kth-largest`.
+
+Week 2, Day 1 (1/6)
+
+1. Read solutions for p2p 2 problems. **Due 1/7.**
+2. Find an *easy* question on LC from the category for *strings* or
+   *arrays*. Solve it, and write at least 3 edge cases to present to an
+   interviewee and at least 2 hints to help an interviewee follow
+   along with your solution to the problem. If you have trouble coming
+   up with at least 3 edge cases and 2 hints by tonight, message me on
+   slack with the link to your question, a summary of your algorithm,
+   your edge cases, and your hints. We'll figure something out. **Due
+   1/8.**. Submit this in the same way we've asked you to [submit
+   answers to p2p
+   problems](https://techinterviewprep2020.slack.com/archives/CS59N3CP2/p1578349126008400). You don't have to submit a pull request for this.
+
+Week 2, Day 2 (1/7)  
+Week 2, Day 3 (1/8)  
+Week 2, Day 4 (1/9)  
+Week 2, Day 5 (1/10)  
+
+Week 3, Day 1 (1/13)  
+Week 3, Day 2 (1/14)  
+Week 3, Day 3 (1/15)  
+Week 3, Day 4 (1/16)  
+Week 3, Day 5 (1/17)  
+
+Week 4, Day 1 (1/20)  
+Week 4, Day 2 (1/21)  
+Week 4, Day 3 (1/22)  
+Week 4, Day 4 (1/23)  
+Week 4, Day 5 (1/24)  
