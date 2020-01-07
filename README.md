@@ -139,7 +139,8 @@ Week 1, Day 2 (1/4)
     - `p2p-problem-2`
 2. Read intro material on hash tables
    [here](https://leetcode.com/explore/learn/card/hash-table/) **Due
-   1/6.**
+   1/6.** Read up until the problem "design a hash set", and do not do
+   it.
 3. Read the [lists review
    packet](https://drive.google.com/open?id=1Ro83seOpzj7Yz4gcWz84qxg3CGhiArT8uB_xB9onZO0), if you need a refresher on arrays, or linked lists. **Due 1/9.** 
 4. Do [Kth largest element in an
@@ -161,6 +162,11 @@ Week 2, Day 1 (1/6)
    problems](https://techinterviewprep2020.slack.com/archives/CS59N3CP2/p1578349126008400). You don't have to submit a pull request for this.
 
 Week 2, Day 2 (1/7)  
+
+1. p2p problems for p2p 3. **Due 1/8.** Remember to [follow these directions](https://techinterviewprep2020.slack.com/archives/CS59N3CP2/p1578349126008400) when submitting the homework.
+    - `p2p-problem-1`
+    - `p2p-problem-2`
+
 Week 2, Day 3 (1/8)  
 Week 2, Day 4 (1/9)  
 Week 2, Day 5 (1/10)  
