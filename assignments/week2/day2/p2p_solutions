@@ -1,0 +1,46 @@
+//Cordell Hurst
+//557. Reverse Words in a String III
+//977. Squares of a Sorted Array
+
+class Solution {
+public:
+    vector<int> sortedSquares(vector<int>& A) {
+        
+        bool hasNegative = 0;
+        if(A[0] < 0)
+            hasNegative = 1;
+        
+        for(int i = 0; i < A.size(); i++)
+            A[i] = A[i]*A[i];
+        
+        if(hasNegative)
+            sort(A.begin(), A.end());
+        
+        return A;
+    }
+};
+
+
+class Solution {
+public:
+    string reverseWords(string s) {
+        
+        int start = 0;
+        int size = s.size();
+        string results;
+        
+        results.reserve(size);
+        for(int i = 0; i < size; i++)
+        {
+            if(s[i] != ' ')
+                results.insert(start, 1, s[i]);
+            else
+            {
+                results += ' ';
+                start = i+1;
+            }
+                
+        }
+        return results;
+    }
+};
