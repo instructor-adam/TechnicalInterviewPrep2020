@@ -1,5 +1,5 @@
 //Cordell Hurst
-//557. Reverse Words in a String III
+//977. Squares of a Sorted Array
 
 class Solution {
 public:
