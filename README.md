@@ -110,17 +110,21 @@ that far. Whether it runs or not, just submit what you have.
 
 ### Classwork
 
-Week 1, Day 1
+Week 1, Day 1 (1/2)
 
 1. Intro Slides <https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing>
 2. Interview Prep Slides:
    - [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
    - [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 
-Week 2, Day 1
+Week 2, Day 1 (1/6)
 
 1. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
 2. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>. `implement-hash-map`.
+
+Week 2, Day 4 (1/9)  
+
+1. [Lists Day 1 slides](https://docs.google.com/presentation/d/1pW8M49lcEIIYBZOJ4AuUkvOprjCfhpibeuI9I-lxdjo/edit?usp=sharing)
 
 ### Homework
 
