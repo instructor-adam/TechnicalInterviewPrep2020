@@ -126,7 +126,7 @@ Week 2, Day 4 (1/9)
 
 1. [Lists Day 1 slides](https://docs.google.com/presentation/d/1pW8M49lcEIIYBZOJ4AuUkvOprjCfhpibeuI9I-lxdjo/edit?usp=sharing)
 
-Week 2, Day 4 (1/10)  
+Week 2, Day 5 (1/10)  
 
 1. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 2. [Lists Day 2 Slides](https://docs.google.com/presentation/d/1twzYsZEQMmKr3dQmHrOmbW-2O6nshg6mcwHfM2oB_GU/edit?usp=sharing)
