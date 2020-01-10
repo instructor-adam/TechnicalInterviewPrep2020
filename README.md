@@ -1,11 +1,12 @@
 # Hunter College: TTP Technical Interview Camp Winter 2020 (Computer Science)
 
-Class Days and Class Times: Monday - Friday, 10:00 AM - 3:00 PM  
-Dates: January 2nd, 2020 (Thursday) - January 24th, 2020 (Friday)  
+Class Days and Class Times: Monday to Friday, 10:00 AM to 3:00 PM  
+Dates: January 2nd, 2020 (Thursday) to January 24th, 2020 (Friday)  
 Room Number: Hunter North 536  
 Lead Instructor: Adam Ibrahim  
 Emails: instructor.ibrahim.adam@gmail.com  
 Slack Workspace: <https://techinterviewprep2020.slack.com/>  
+Office Hours: Wednesday and Friday 3:00 PM to 4:00 PM
 
 ## Repo Structure
 
