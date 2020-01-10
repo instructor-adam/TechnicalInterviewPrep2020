@@ -33,7 +33,7 @@ your program to the github using the directions below under
 
 To get setup to submit homework, **fork this repository**.
 
-Then do the following when you want to do homework
+Then do the following when you do homework:
 
 - Pull from my repository to your fork. There will be files in the
   correct location for the work to do that day. If you are submitting
@@ -182,6 +182,19 @@ Week 2, Day 2 (1/7)
 Week 2, Day 3 (1/8)  
 Week 2, Day 4 (1/9)  
 Week 2, Day 5 (1/10)  
+
+1. Implement dutch national flag partitioning for a linked list, this
+   is on Hacker Rank. You will receive an invite. *Check your spam for
+   the invite if you can't find it, and reach out to me or Elise!* **Due
+   1/13.**
+2. Stacks+queues unit pre-reading <https://drive.google.com/open?id=1MN29NToPCiKZy2_Sg_A7xuR2_BbKaIv-zXEGEkzpc6g>. **Due 1/13.**
+3. Stacks+queues unit intro question, "Implement Max Stack". This is
+   on Hacker Rank. **Due 1/13.**
+4. Trees unit pre-reading. Review slides on trees, the representation as
+   a data structure and **many important definitions** I will use in
+   class.
+   <https://docs.google.com/presentation/d/1ONw1IU8wVmXGKuK6yUfPti6f2q9603CYQyCrjT7QQMk/edit?usp=sharing>.
+   **Due 1/16.**
 
 Week 3, Day 1 (1/13)  
 Week 3, Day 2 (1/14)  
