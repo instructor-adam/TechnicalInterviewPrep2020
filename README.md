@@ -205,6 +205,13 @@ Week 2, Day 5 (1/10)
    **Due 1/16.**
 
 Week 3, Day 1 (1/13)  
+
+1. Hacker Rank problem `braces`. You will recieve an invite. **Due
+   1/14.**
+2. [Backspace string
+   compare](https://leetcode.com/problems/backspace-string-compare/).
+   **Due 1/14.** `backspace-string-compare`.
+
 Week 3, Day 2 (1/14)  
 Week 3, Day 3 (1/15)  
 Week 3, Day 4 (1/16)  
