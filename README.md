@@ -134,6 +134,14 @@ Week 2, Day 5 (1/10)
 3. [Reverse a linked list](https://leetcode.com/problems/reverse-linked-list/)
 4. [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
+Week 3, Day 1 (1/13)
+
+1. [Lists Day 3 slides](https://drive.google.com/open?id=1TRe3JYxAPwlLZ46Z4AeX_AsUU3EPwRTYOqtdU9Ev6TA)
+2. [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+3. [Merge sorted array](https://leetcode.com/problems/merge-sorted-array/)
+4. [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+5. [Stacks+queues day 1 slides](https://drive.google.com/open?id=1nAf_RtivK28C-1KubP0s1MxvqTZEjoV4fIyiARrTFRE)
+
 ### Homework
 
 Week 1, Day 1 (1/3)
