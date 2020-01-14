@@ -5,40 +5,34 @@ def braces(values):
     braces = "()"
 
     for string in values:
-        curly_stack = []
-        square_stack = []
-        braces_stack = []
-
+        stack = []
         for char in string:
-            if char in curly:
-                if not curly_stack:
-                    curly_stack.append(char)
-                elif curly_stack[-1] == char:
-                    curly_stack.append(char)
-                elif curly_stack[-1] != char:
-                    curly_stack.pop()
+            if not stack:
+                stack.append(char)
 
+            elif char in curly:
+                if char == stack[-1]:
+                    stack.append(char)
+                elif char != stack[-1] and stack[-1] == '{':
+                    stack.pop()
+                else:
+                    stack.append(char)
             elif char in square:
-                if not square_stack:
-                    square_stack.append(char)
-                elif square_stack[-1] == char:
-                    square_stack.append(char)
-                elif square_stack[-1] != char:
-                    square_stack.pop()
-
+                if char == stack[-1]:
+                    stack.append(char)
+                elif char != stack[-1] and stack[-1] == '[':
+                    stack.pop()
+                else:
+                    stack.append(char)
             elif char in braces:
-                if not braces_stack:
-                    braces_stack.append(char)
-                elif braces_stack[-1] == char:
-                    braces_stack.append(char)
-                elif braces_stack[-1] != char:
-                    braces_stack.pop()
-        if not curly_stack and not square_stack and not braces_stack:
+                if char == stack[-1]:
+                    stack.append(char)
+                elif char != stack[-1] and stack[-1] == '(':
+                    stack.pop()
+                else:
+                    stack.append(char)
+        if not stack:
             matched.append("YES")
         else:
             matched.append("NO")
     return matched
-
-
-values = ['{}[]()', '{[}]}', '{{{([])}}}', '}}}}{{{}}}']
-print(braces(values))
