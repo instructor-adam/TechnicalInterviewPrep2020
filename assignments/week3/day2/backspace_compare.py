@@ -4,7 +4,6 @@ def backspaceCompare(self, S: str, T: str) -> bool:
 
     for char in S:
         if char == "#" and not stack_S:
-            print("WORKED")
             continue
         elif char == "#":
             stack_S.pop()
@@ -15,7 +14,6 @@ def backspaceCompare(self, S: str, T: str) -> bool:
         if char == "#" and not stack_T:
             continue
         elif char == "#":
-            print(char)
             stack_T.pop()
         else:
             stack_T.append(char)
