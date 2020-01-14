@@ -220,7 +220,8 @@ Week 3, Day 1 (1/13)
 
 Week 3, Day 2 (1/14)  
 
-1. p2p problems for p2p 4. **Due 1/15.**
+1. p2p problems for p2p 4. You must do these problems and read the
+   answers in the same night. **Due 1/15.**
 
 Week 3, Day 3 (1/15)  
 
