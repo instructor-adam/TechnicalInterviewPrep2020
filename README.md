@@ -146,7 +146,7 @@ Week 3, Day 2 (1/14)
 
 1. [daily temperatures](https://leetcode.com/problems/daily-temperatures/)
 2. [Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
-3. [Stacks+queues day 2 slides](https://drive.google.com/open?id=1nAf_RtivK28C-1KubP0s1MxvqTZEjoV4fIyiARrTFRE)
+3. [Stacks+queues day 2 slides](https://docs.google.com/presentation/d/11qgrDCsKmTAaFQSwRfApvj-cUwNtk-WtK6JFLgeqKFE/edit?usp=sharing)
 
 ### Homework
 
