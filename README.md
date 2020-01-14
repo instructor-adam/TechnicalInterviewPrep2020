@@ -142,6 +142,12 @@ Week 3, Day 1 (1/13)
 4. [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 5. [Stacks+queues day 1 slides](https://drive.google.com/open?id=1nAf_RtivK28C-1KubP0s1MxvqTZEjoV4fIyiARrTFRE)
 
+Week 3, Day 2 (1/14)  
+
+1. [daily temperatures](https://leetcode.com/problems/daily-temperatures/)
+2. [Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+3. [Stacks+queues day 2 slides](https://drive.google.com/open?id=1nAf_RtivK28C-1KubP0s1MxvqTZEjoV4fIyiARrTFRE)
+
 ### Homework
 
 Week 1, Day 1 (1/3)
@@ -213,7 +219,13 @@ Week 3, Day 1 (1/13)
    **Due 1/14.** `backspace-string-compare`.
 
 Week 3, Day 2 (1/14)  
+
+1. p2p problems for p2p 4. **Due 1/15.**
+
 Week 3, Day 3 (1/15)  
+
+1. p2p problems for p2p 5. **Due 1/16.**
+
 Week 3, Day 4 (1/16)  
 Week 3, Day 5 (1/17)  
 
