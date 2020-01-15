@@ -226,6 +226,9 @@ Week 3, Day 2 (1/14)
 Week 3, Day 3 (1/15)  
 
 1. p2p problems for p2p 5. **Due 1/16.**
+2. If you took a mock interview with a Bloomberg engineer today,
+   *please fill out [this
+   survey](https://docs.google.com/forms/d/e/1FAIpQLSfKCfYaRXMKL80BEdYPIN4ckdPGF7q3S0eOz9OGFsU0F3cjrw/viewform)*. **Due 1/16.**
 
 Week 3, Day 4 (1/16)  
 Week 3, Day 5 (1/17)  
