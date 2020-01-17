@@ -148,6 +148,17 @@ Week 3, Day 2 (1/14)
 2. [Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 3. [Stacks+queues day 2 slides](https://docs.google.com/presentation/d/11qgrDCsKmTAaFQSwRfApvj-cUwNtk-WtK6JFLgeqKFE/edit?usp=sharing)
 
+Week 3, Day 3 (1/15)  
+
+1. [Trees Day 2 Slides](https://docs.google.com/presentation/d/1T3S84EYOZr2_5kkQflcP4HdgGQYWzYR6YAINHRNKLRs/edit?usp=sharing)
+2. [Search in binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+3. [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)
+4. [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+
+Week 3, Day 5 (1/17)  
+
+1. [Trees Day 3 Slides](https://docs.google.com/presentation/d/11XvMOd3vYPs5JcTcFI4xLtIY7OLMp8WNehQ6IZD8ySw/edit?usp=sharing)
+
 ### Homework
 
 Week 1, Day 1 (1/3)
