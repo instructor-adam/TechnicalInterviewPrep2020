@@ -245,6 +245,11 @@ Week 3, Day 3 (1/15)
 Week 3, Day 4 (1/16)  
 Week 3, Day 5 (1/17)  
 
+1. Read [Recursion pre-work packet](https://drive.google.com/open?id=137-FK-Y2DYqpTkSb5yHm8wHoVEPQ8bh2). **Due 1/20.**
+2. Finish these problems from class. **Due 1/20.**
+    - <https://leetcode.com/problems/binary-tree-level-order-traversal/>
+    - <https://leetcode.com/problems/populating-next-right-pointers-in-each-node/>
+
 Week 4, Day 1 (1/20)  
 Week 4, Day 2 (1/21)  
 Week 4, Day 3 (1/22)  
