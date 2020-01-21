@@ -251,6 +251,9 @@ Week 3, Day 5 (1/17)
     - <https://leetcode.com/problems/populating-next-right-pointers-in-each-node/>
 
 Week 4, Day 1 (1/20)  
+
+1. p2p problems for p2p 6. **Due 1/21.**
+
 Week 4, Day 2 (1/21)  
 Week 4, Day 3 (1/22)  
 Week 4, Day 4 (1/23)  
