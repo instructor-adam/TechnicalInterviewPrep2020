@@ -263,6 +263,12 @@ Week 4, Day 1 (1/20)
 1. p2p problems for p2p 6. **Due 1/21.**
 
 Week 4, Day 2 (1/21)  
+
+1. Read solutions to p2p problems for p2p 6. **Due 1/22.**
+2. Spend 1 hour working on problems from either the Recursion Day 1
+   Slides or Recursion Day 2 slides. They are linked in the classwork
+   section under the dates 1/20 and 1/21. **Due 1/21.**
+
 Week 4, Day 3 (1/22)  
 Week 4, Day 4 (1/23)  
 Week 4, Day 5 (1/24)  
