@@ -159,6 +159,14 @@ Week 3, Day 5 (1/17)
 
 1. [Trees Day 3 Slides](https://docs.google.com/presentation/d/11XvMOd3vYPs5JcTcFI4xLtIY7OLMp8WNehQ6IZD8ySw/edit?usp=sharing)
 
+Week 4, Day 2 (1/21)  
+
+1. [Recursion Day 1 Slides](https://drive.google.com/open?id=1q7TsjznFmfXpcvSfcVFAw8oVlwQCVxZdwQykAnc6deg) 
+
+Week 4, Day 3 (1/22)  
+
+1. [Recursion Day 2 Slides](https://drive.google.com/open?id=1Y61B557qLBG01roTTCSNHEP4pbK_xi2CfBbYlEuR00M) 
+
 ### Homework
 
 Week 1, Day 1 (1/3)
