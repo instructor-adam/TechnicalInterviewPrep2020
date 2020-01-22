@@ -281,7 +281,7 @@ Week 4, Day 3 (1/22)
    **Due 1/23.** Submit this as a gist to Elise. You don't have to
    submit a pull request for this. Don't bite off more than you can
    chew! 
-    - the link to your questioni
+    - the link to your question
     - your program (if you have one)
     - a summary of your algorithm
     - your edge cases
