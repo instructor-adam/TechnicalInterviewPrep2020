@@ -270,5 +270,22 @@ Week 4, Day 2 (1/21)
    section under the dates 1/20 and 1/21. **Due 1/21.**
 
 Week 4, Day 3 (1/22)  
+
+1. p2p problems for p2p 7. **Due 1/23.**
+2. Find your own problem for p2p 7! You can pick any problem you want
+   from LeetCode. Solve it, write at least 3 edge cases and 2 hints to
+   present to an interviewee when they're trying to solve your
+   problem.  If you have trouble coming
+   up with at least 3 edge cases and 2 hints by tonight, message me on
+   slack with all of the below items. We'll figure something out.
+   **Due 1/23.** Submit this as a gist to Elise. You don't have to
+   submit a pull request for this. Don't bite off more than you can
+   chew! 
+    - the link to your questioni
+    - your program (if you have one)
+    - a summary of your algorithm
+    - your edge cases
+    - and your hints.  
+
 Week 4, Day 4 (1/23)  
 Week 4, Day 5 (1/24)  
