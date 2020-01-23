@@ -167,6 +167,32 @@ Week 4, Day 3 (1/22)
 
 1. [Recursion Day 2 Slides](https://drive.google.com/open?id=1Y61B557qLBG01roTTCSNHEP4pbK_xi2CfBbYlEuR00M) 
 
+Week 4, Day 4 (1/23)  
+
+Grab-bag of problems! You can cast off on your own, or pick from the
+following problems
+
+- <https://leetcode.com/problems/island-perimeter>
+- <https://leetcode.com/problems/keyboard-row/>
+- <https://leetcode.com/problems/sort-characters-by-frequency/>
+- <https://leetcode.com/problems/maximum-frequency-stack/>
+- <https://leetcode.com/problems/max-points-on-a-line>
+- <https://leetcode.com/problems/best-time-to-buy-and-sell-stock>
+- <https://leetcode.com/problems/linked-list-cycle>
+- <https://leetcode.com/problems/top-k-frequent-elements>
+- <https://leetcode.com/problems/odd-even-linked-list>
+- <https://leetcode.com/problems/permutations>
+- <https://leetcode.com/problems/unique-paths/>
+- <https://leetcode.com/problems/jump-game/>
+- <https://leetcode.com/problems/delete-node-in-a-bst/>
+- <https://leetcode.com/problems/invert-binary-tree>
+- <https://leetcode.com/problems/cousins-in-binary-tree/>
+- <https://leetcode.com/problems/palindrome-partitioning/>
+- <https://leetcode.com/problems/longest-palindromic-substring/solution/>
+- <https://leetcode.com/problems/longest-increasing-subsequence>
+
+
+
 ### Homework
 
 Week 1, Day 1 (1/3)
