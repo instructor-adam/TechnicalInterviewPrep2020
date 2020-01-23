@@ -22,6 +22,7 @@ public:
                 curr = temp;             
            }
        }
+       // if linked list is of size 1 e.g. 1->nullptr
        if(head->val == val){
            return head->next;
        }
