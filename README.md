@@ -22,7 +22,7 @@ Each assignment has the following format:
 Date given: description. Due date. Assignment name.
 
 The due date means before class on that date. So if a homework is due
-on 1/10, then it is due before 10:00 AM on 1/10.
+on 6/10, then it is due before 10:00 AM on 6/10.
 
 For any assignment where I ask you to solve a problem, please submit
 your program to the github using the directions below under
@@ -36,7 +36,7 @@ Then do the following when you do homework:
 
 - Pull from my repository to your fork. There will be files in the
   correct location for the work to do that day. If you are submitting
-  homework *due on* 1/5 (not assigned 1/5), for example, which is the
+  homework *due on* 6/5 (not assigned 6/5), for example, which is the
   1st day of the 2nd week of the bootcamp, then you would find the
   file at `week2/day1/assignment-name`. In general, the path for a
   file is `week#/day#/assignment-name`. The same is true for
@@ -78,39 +78,43 @@ that far. Whether it runs or not, just submit what you have.
 
 ### Syllabus
 
-**Week 1 (01/02 -> 01/03)**
+**Week 1 (06/01 -> 06/05)**
 
-01/02 (Thu): intro, setup, how to interview, p2p 1 question prep  
-01/03 (Fri): initial assessment, p2p 1  
+06/01 (Thu): intro, setup, how to interview, p2p 1 question prep  
+06/02 (Fri): initial assessment, p2p 1  
 - hw: hashes,  p2p 2 questions, lists pre-work
+06/03 (Mon): big-o lecture, hashes  
+06/04 (Tue): hashes day, p2p 2 
+06/05 (Wed): hashes
 
-**Week 2 (01/06 -> 01/10)**
+**Week 2 (06/08 -> 06/12)**
 
-01/06 (Mon): big-o lecture, hashes  
-01/07 (Tue): hashes day, p2p 2  
-01/08 (Wed): hashes  
-01/09 (Thu): hashes, p2p 3, for hw lists  
-01/10 (Fri): lists, stacks and queues pre work  
+06/08 (Thu): hashes, p2p 3, for hw lists  
+06/09 (Fri): lists, stacks and queues pre work  
+06/10 (Mon): lists, stacks and queues. Hw: p2p 4 qu’s  
+06/11 (Tue): stacks+queues  
+06/12 (Wed):  p2p 4, stacks+queues, hw p2p 5 questions 
 
-**Week 3 (01/13 -> 01/17)**
+**Week 3 (06/15 -> 06/19)**
 
-01/13 (Mon): lists, stacks and queues. Hw: p2p 4 qu’s  
-01/14 (Tue): stacks+queues  
-01/15 (Wed):  p2p 4, stacks+queues, hw p2p 5 questions  
-01/16 (Thu): stacks+queues, trees  
-01/17 (Fri): p2p 5, trees, recursion pre work  
+ 
+06/15 (Thu): stacks+queues, trees  
+06/16 (Fri): p2p 5, trees, recursion pre work 
+06/17 (Mon): recursion, hw: p2p 6 questions due wed  
+06/18 (Tue): recursion  
+06/19 (Wed): p2p 6, recursion, hw: p2p 7 questions   
 
-**Week 4 (01/20 -> 01/24)**
+**Week 4 (06/22 -> 06/26)**
 
-01/20 (Mon): recursion, hw: p2p 6 questions due wed  
-01/21 (Tue): recursion  
-01/22 (Wed): p2p 6, recursion, hw: p2p 7 questions  
-01/23 (Thu): recursion  
-01/24 (Fri): final assessment, p2p 7  
+06/22 (Thu): recursion  
+06/23 (Fri): final assessment, p2p 7 
+06/24 p2p
+06/25 p2p
+06/26 p2p 
 
 ### Classwork
 
-Week 1, Day 1 (1/2)
+Week 1, Day 1 (6/01)
 
 1. Intro Slides <https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing>
 2. Interview Prep Slides:
