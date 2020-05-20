@@ -83,6 +83,7 @@ that far. Whether it runs or not, just submit what you have.
 06/01 (Thu): intro, setup, how to interview, p2p 1 question prep  
 06/02 (Fri): initial assessment, p2p 1  
 - hw: hashes,  p2p 2 questions, lists pre-work
+
 06/03 (Mon): big-o lecture, hashes  
 06/04 (Tue): hashes day, p2p 2 
 06/05 (Wed): hashes
