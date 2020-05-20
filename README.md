@@ -114,8 +114,11 @@ that far. Whether it runs or not, just submit what you have.
 
 06/22 (Mon): recursion  
 06/23 (Tues): final assessment, p2p 7 
+
 06/24 p2p
+
 06/25 p2p
+
 06/26 p2p 
 
 ### Classwork
