@@ -86,6 +86,7 @@ that far. Whether it runs or not, just submit what you have.
 
 06/03 (Mon): big-o lecture, hashes  
 06/04 (Tue): hashes day, p2p 2 
+
 06/05 (Wed): hashes
 
 **Week 2 (06/08 -> 06/12)**
@@ -109,8 +110,11 @@ that far. Whether it runs or not, just submit what you have.
 
 06/22 (Thu): recursion  
 06/23 (Fri): final assessment, p2p 7 
+
 06/24 p2p
+
 06/25 p2p
+
 06/26 p2p 
 
 ### Classwork
