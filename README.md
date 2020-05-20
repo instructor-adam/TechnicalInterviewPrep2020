@@ -3,15 +3,17 @@
 Class Days and Class Times: Monday to Friday, 10:00 AM to 3:00 PM  
 Dates: June 1, 2020 (Monday) to June 30th, 2020 (Tuesday)    
 Lead Instructor: Daniel Zabari  
-Emails: zabari.daniel@gmail.com  
-Slack Workspace: <https://techinterviewprep2020.slack.com/>  
+Email: zabari.daniel@gmail.com  
+TA: Jonathan Pedoeem
+Email: jonathanped@gmail.com
+Slack Workspace: <https://interviewprepbootcamp.slack.com>  
 Office Hours: Wednesday and Friday 3:00 PM to 4:00 PM
 
 ## Repo Structure
 
 - This README contains your assignments
 - The `assignments` folder is where you will put your work when you
-  submit a pull request to me. This is also where I will post
+  submit a pull request to me. This is also where we will post
   solutions after the classwork/homework should have already been
   done.
 
@@ -24,7 +26,7 @@ Date given: description. Due date. Assignment name.
 The due date means before class on that date. So if a homework is due
 on 6/10, then it is due before 10:00 AM on 6/10.
 
-For any assignment where I ask you to solve a problem, please submit
+For any assignment where we ask you to solve a problem, please submit
 your program to the github using the directions below under
 'submitting HW'.
 
@@ -73,7 +75,7 @@ As code:
 
 - whatever part of a program you wrote if you wrote one
 
-I prefer you submit something that runs, but sometimes we don't get
+We prefer you submit something that runs, but sometimes we don't get
 that far. Whether it runs or not, just submit what you have.
 
 ### Syllabus
@@ -112,9 +114,7 @@ that far. Whether it runs or not, just submit what you have.
 06/23 (Fri): final assessment, p2p 7 
 
 06/24 p2p
-
 06/25 p2p
-
 06/26 p2p 
 
 ### Classwork
@@ -126,16 +126,16 @@ Week 1, Day 1 (6/01)
    - [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
    - [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 
-Week 2, Day 1 (1/6)
+Week 1, Day 2 (6/2)
 
 1. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
 2. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>. `implement-hash-map`.
 
-Week 2, Day 4 (1/9)  
+Week 1, Day 3 (6/3)  
 
 1. [Lists Day 1 slides](https://docs.google.com/presentation/d/1pW8M49lcEIIYBZOJ4AuUkvOprjCfhpibeuI9I-lxdjo/edit?usp=sharing)
 
-Week 2, Day 5 (1/10)  
+Week 1, Day 4 (6/4)  
 
 1. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 2. [Lists Day 2 Slides](https://docs.google.com/presentation/d/1twzYsZEQMmKr3dQmHrOmbW-2O6nshg6mcwHfM2oB_GU/edit?usp=sharing)
@@ -203,14 +203,14 @@ following problems
 
 ### Homework
 
-Week 1, Day 1 (1/3)
+Week 1, Day 1 (6/1)
 
 1. p2p problems. **Due 1/2.** Remember to submit work 1/3, after p2p
    finishes.
     - `p2p-problem-1`
     - `p2p-problem-2`
 
-Week 1, Day 2 (1/4)
+Week 1, Day 2 (6/2)
 
 1. p2p problems. **Due 1/6.** Remember to submit work 1/7, after p2p
    finishes.
