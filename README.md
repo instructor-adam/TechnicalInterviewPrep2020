@@ -5,6 +5,7 @@ Dates: June 1, 2020 (Monday) to June 30th, 2020 (Tuesday)
 Lead Instructor: Daniel Zabari  
 Email: zabari.daniel@gmail.com  
 TA: Jonathan Pedoeem
+
 Email: jonathanped@gmail.com
 
 Slack Workspace: <https://interviewprepbootcamp.slack.com> 
@@ -87,7 +88,9 @@ that far. Whether it runs or not, just submit what you have.
 06/01 (Mon): intro, setup, how to interview, p2p 1 question prep  
 06/02 (Tues): initial assessment, p2p 1  
 - hw: hashes,  p2p 2 questions, lists pre-work
+
 06/03 (Weds): big-o lecture, hashes  
+
 06/04 (Thurs): hashes day, p2p 2 
 06/05 (Fri): hashes
 
