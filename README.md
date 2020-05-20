@@ -5,8 +5,11 @@ Dates: June 1, 2020 (Monday) to June 30th, 2020 (Tuesday)
 Lead Instructor: Daniel Zabari  
 Email: zabari.daniel@gmail.com  
 TA: Jonathan Pedoeem
+
 Email: jonathanped@gmail.com
-Slack Workspace: <https://interviewprepbootcamp.slack.com>  
+
+Slack Workspace: <https://interviewprepbootcamp.slack.com> 
+ 
 Office Hours: Wednesday and Friday 3:00 PM to 4:00 PM
 
 ## Repo Structure
