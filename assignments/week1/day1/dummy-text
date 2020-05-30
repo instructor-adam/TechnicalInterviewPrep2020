@@ -1,0 +1,40 @@
+#Python: Problem 1
+
+class Solution:
+    def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:
+    
+        time = 0
+        curPos = points[0]
+
+        for point in points[1:]:
+            time += max(abs(curPos[0] - point[0]), abs(curPos[1] - point[1]))
+            curPos = point
+
+        return time
+
+
+
+//Javascript: problem 2
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var balancedStringSplit = function(s) {
+    let count = 0;
+    let balanced = 0;
+    for(let i=0; i<s.length; i++){
+        if (s[i]=== "R"){
+            count++
+        }
+        else{
+            count--
+        }
+        if(count === 0) {
+            balanced++
+        }
+    
+    }
+    return balanced;
+
+};
+

@@ -1,0 +1,72 @@
+
+
+var findKthLargest = function(nums, k) {
+    nums.sort((a,b)=>b-a);
+    return nums[k-1]
+};
+
+// C++ solution
+class Solution {
+public:
+    string reverseOnlyLetters(string S) {
+    string s= S;
+    int start = 0;
+    int end = s.length() -1;
+    while(start <= end){
+        char l = s[start];
+        char r = s[end];
+        //except 91-96
+        if(!isalpha(l)){
+            start++;
+        }
+        else if(!isalpha(r)){
+            end--;
+        }
+        else{
+            s[end] = l;
+            s[start]= r;
+            start++;
+            end--;
+        }
+    }
+    return s;
+    }
+};
+
+// JS solution
+**
+ * @param {number[]} arr
+ * @return {number[]}
+ */
+
+let findMax = (arr) => {
+    let max = -500
+    let pos = 0
+    for(num of arr){
+        if(num>max){
+            max=num
+            pos = arr.indexOf(num);
+        }
+    }
+    return [max, pos];
+}
+
+var replaceElements = function(arr) {
+    
+    let start = 0;
+    let pos = -1
+    let max = Number.MIN_SAFE_INTEGER;
+    
+    while(start< arr.length){
+        if(start>pos){
+            let maxInfo = findMax(arr.slice(start+1));
+            max = maxInfo[0];
+            pos = maxInfo[1]; 
+        }        
+        arr[start]=max;
+        start++
+       
+    }
+    arr[arr.length-1] = -1;
+    return arr;
+};
