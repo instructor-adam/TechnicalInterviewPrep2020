@@ -1,18 +1,22 @@
-# Hunter College: TTP Technical Interview Camp Winter 2020 (Computer Science)
+# Hunter College: TTP Technical Interview Prep Bootcamp Summer 2020
 
 Class Days and Class Times: Monday to Friday, 10:00 AM to 3:00 PM  
-Dates: January 2nd, 2020 (Thursday) to January 24th, 2020 (Friday)  
-Room Number: Hunter North 536  
-Lead Instructor: Adam Ibrahim  
-Emails: instructor.ibrahim.adam@gmail.com  
-Slack Workspace: <https://techinterviewprep2020.slack.com/>  
+Dates: June 1, 2020 (Monday) to June 30th, 2020 (Tuesday)    
+Lead Instructor: Daniel Zabari  
+Email: zabari.daniel@gmail.com  
+TA: Jonathan Pedoeem
+
+Email: jonathanped@gmail.com
+
+Slack Workspace: <https://interviewprepbootcamp.slack.com> 
+
 Office Hours: Wednesday and Friday 3:00 PM to 4:00 PM
 
 ## Repo Structure
 
 - This README contains your assignments
 - The `assignments` folder is where you will put your work when you
-  submit a pull request to me. This is also where I will post
+  submit a pull request to me. This is also where we will post
   solutions after the classwork/homework should have already been
   done.
 
@@ -23,9 +27,9 @@ Each assignment has the following format:
 Date given: description. Due date. Assignment name.
 
 The due date means before class on that date. So if a homework is due
-on 1/10, then it is due before 10:00 AM on 1/10.
+on 6/10, then it is due before 10:00 AM on 6/10.
 
-For any assignment where I ask you to solve a problem, please submit
+For any assignment where we ask you to solve a problem, please submit
 your program to the github using the directions below under
 'submitting HW'.
 
@@ -37,11 +41,11 @@ Then do the following when you do homework:
 
 - Pull from my repository to your fork. There will be files in the
   correct location for the work to do that day. If you are submitting
-  homework *due on* 1/5 (not assigned 1/5), for example, which is the
+  homework *due on* 6/5 (not assigned 6/5), for example, which is the
   1st day of the 2nd week of the bootcamp, then you would find the
   file at `week2/day1/assignment-name`. In general, the path for a
   file is `week#/day#/assignment-name`. The same is true for
-  submitting classwork we did on 1/5. You would look for the correct
+  submitting classwork we did on 6/5. You would look for the correct
   file under `week2/day1/assignment-name`.
 - Do the work.
 - When you are ready to start comitting work to your fork, place your
@@ -74,67 +78,76 @@ As code:
 
 - whatever part of a program you wrote if you wrote one
 
-I prefer you submit something that runs, but sometimes we don't get
+We prefer you submit something that runs, but sometimes we don't get
 that far. Whether it runs or not, just submit what you have.
 
 ### Syllabus
 
-**Week 1 (01/02 -> 01/03)**
+**Week 1 (06/01 -> 06/05)**
 
-01/02 (Thu): intro, setup, how to interview, p2p 1 question prep  
-01/03 (Fri): initial assessment, p2p 1  
+06/01 (Mon): intro, setup, how to interview, p2p 1 question prep  
+06/02 (Tues): initial assessment, p2p 1  
 - hw: hashes,  p2p 2 questions, lists pre-work
 
-**Week 2 (01/06 -> 01/10)**
+06/03 (Weds): big-o lecture, hashes  
 
-01/06 (Mon): big-o lecture, hashes  
-01/07 (Tue): hashes day, p2p 2  
-01/08 (Wed): hashes  
-01/09 (Thu): hashes, p2p 3, for hw lists  
-01/10 (Fri): lists, stacks and queues pre work  
+06/04 (Thurs): hashes day, p2p 2 
+06/05 (Fri): hashes
 
-**Week 3 (01/13 -> 01/17)**
+**Week 2 (06/08 -> 06/12)**
 
-01/13 (Mon): lists, stacks and queues. Hw: p2p 4 qu’s  
-01/14 (Tue): stacks+queues  
-01/15 (Wed):  p2p 4, stacks+queues, hw p2p 5 questions  
-01/16 (Thu): stacks+queues, trees  
-01/17 (Fri): p2p 5, trees, recursion pre work  
+06/08 (Mon): hashes, p2p 3, for hw lists  
+06/09 (Tues): lists, stacks and queues pre work  
+06/10 (Weds): lists, stacks and queues. Hw: p2p 4 qu’s  
+06/11 (Thurs): stacks+queues  
+06/12 (Fri):  p2p 4, stacks+queues, hw p2p 5 questions 
 
-**Week 4 (01/20 -> 01/24)**
+**Week 3 (06/15 -> 06/19)**
 
-01/20 (Mon): recursion, hw: p2p 6 questions due wed  
-01/21 (Tue): recursion  
-01/22 (Wed): p2p 6, recursion, hw: p2p 7 questions  
-01/23 (Thu): recursion  
-01/24 (Fri): final assessment, p2p 7  
+ 
+06/15 (Mon): stacks+queues, trees  
+06/16 (Tues): p2p 5, trees, recursion pre work 
+06/17 (Weds): recursion, hw: p2p 6 questions due wed  
+06/18 (Thurs): recursion  
+06/19 (Fri): p2p 6, recursion, hw: p2p 7 questions   
+
+**Week 4 (06/22 -> 06/26)**
+
+06/22 (Mon): recursion  
+06/23 (Tues): final assessment, p2p 7 
+
+06/24 p2p
+
+06/25 p2p
+
+06/26 p2p 
 
 ### Classwork
 
-Week 1, Day 1 (1/2)
+Week 1, Day 1 (6/01)
 
 1. Intro Slides <https://docs.google.com/presentation/d/11N-mmMHD8W4LhbYibOsjlTamRTDI1uHaj2_4oFD0hWQ/edit?usp=sharing>
 2. Interview Prep Slides:
    - [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
    - [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 
-Week 2, Day 1 (1/6)
+Week 1, Day 2 (6/2)
 
 1. Read "Design a Hash Table". <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/> 
 2. Do "Design Hash Map" <https://leetcode.com/explore/learn/card/hash-table/182/practical-applications/1140/>. `implement-hash-map`.
 
-Week 2, Day 4 (1/9)  
+Week 1, Day 3 (6/3)  
 
 1. [Lists Day 1 slides](https://docs.google.com/presentation/d/1pW8M49lcEIIYBZOJ4AuUkvOprjCfhpibeuI9I-lxdjo/edit?usp=sharing)
 
-Week 2, Day 5 (1/10)  
+Week 1, Day 4 (6/4)  
 
 1. [Sort Colors](https://leetcode.com/problems/sort-colors/)
 2. [Lists Day 2 Slides](https://docs.google.com/presentation/d/1twzYsZEQMmKr3dQmHrOmbW-2O6nshg6mcwHfM2oB_GU/edit?usp=sharing)
 3. [Reverse a linked list](https://leetcode.com/problems/reverse-linked-list/)
 4. [Remove linked list elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
-Week 3, Day 1 (1/13)
+Week 1, Day 5 (6/5)
 
 1. [Lists Day 3 slides](https://drive.google.com/open?id=1TRe3JYxAPwlLZ46Z4AeX_AsUU3EPwRTYOqtdU9Ev6TA)
 2. [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
@@ -142,28 +155,28 @@ Week 3, Day 1 (1/13)
 4. [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 5. [Stacks+queues day 1 slides](https://drive.google.com/open?id=1nAf_RtivK28C-1KubP0s1MxvqTZEjoV4fIyiARrTFRE)
 
-Week 3, Day 2 (1/14)  
+Week 2, Day 1 (6/8)  
 
 1. [daily temperatures](https://leetcode.com/problems/daily-temperatures/)
 2. [Minimum add to make parentheses valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
 3. [Stacks+queues day 2 slides](https://docs.google.com/presentation/d/11qgrDCsKmTAaFQSwRfApvj-cUwNtk-WtK6JFLgeqKFE/edit?usp=sharing)
 
-Week 3, Day 3 (1/15)  
+Week 2, Day 2 (6/9)  
 
 1. [Trees Day 2 Slides](https://docs.google.com/presentation/d/1T3S84EYOZr2_5kkQflcP4HdgGQYWzYR6YAINHRNKLRs/edit?usp=sharing)
 2. [Search in binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
 3. [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst)
 4. [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
 
-Week 3, Day 5 (1/17)  
+Week 2, Day 3 (6/10)  
 
 1. [Trees Day 3 Slides](https://docs.google.com/presentation/d/11XvMOd3vYPs5JcTcFI4xLtIY7OLMp8WNehQ6IZD8ySw/edit?usp=sharing)
 
-Week 4, Day 2 (1/21)  
+Week 2, Day 4 (6/11)  
 
 1. [Recursion Day 1 Slides](https://drive.google.com/open?id=1q7TsjznFmfXpcvSfcVFAw8oVlwQCVxZdwQykAnc6deg) 
 
-Week 4, Day 3 (1/22)  
+Week 2, Day 5 (6/12)  
 
 1. [Recursion Day 2 Slides](https://drive.google.com/open?id=1Y61B557qLBG01roTTCSNHEP4pbK_xi2CfBbYlEuR00M) 
 
@@ -195,14 +208,16 @@ following problems
 
 ### Homework
 
-Week 1, Day 1 (1/3)
+Homework1
 
 1. p2p problems. **Due 1/2.** Remember to submit work 1/3, after p2p
    finishes.
     - `p2p-problem-1`
     - `p2p-problem-2`
 
-Week 1, Day 2 (1/4)
+Please create a gist containing your solutions or attempt at designing solutions. At the top of your code, make a comment with your name, your group, and the two problem names. This will be the system starting Wednesday night, with p2p 3. Slack Elise your code by 7pm the night before you act as interviewer, so I can be sure you worked on the problems yourself. 
+
+Homework2
 
 1. p2p problems. **Due 1/6.** Remember to submit work 1/7, after p2p
    finishes.
@@ -218,9 +233,9 @@ Week 1, Day 2 (1/4)
    array](https://leetcode.com/problems/kth-largest-element-in-an-array/).
    **Due 1/9.** `kth-largest`.
 
-Week 2, Day 1 (1/6)
+Homework3
 
-1. Read solutions for p2p 2 problems. **Due 1/7.**
+1. Read solutions for p2p 2 problems. **Due tk.**
 2. Find an *easy* question on LC from the category for *strings* or
    *arrays*. Solve it, and write at least 3 edge cases to present to an
    interviewee and at least 2 hints to help an interviewee follow
@@ -228,76 +243,74 @@ Week 2, Day 1 (1/6)
    up with at least 3 edge cases and 2 hints by tonight, message me on
    slack with the link to your question, a summary of your algorithm,
    your edge cases, and your hints. We'll figure something out. **Due
-   1/8.**. Submit this in the same way we've asked you to [submit
+   tk.**. Submit this in the same way we've asked you to [submit
    answers to p2p
-   problems](https://techinterviewprep2020.slack.com/archives/CS59N3CP2/p1578349126008400). You don't have to submit a pull request for this.
+   problems] Please create a gist containing your solutions or attempt at designing solutions. At the top of your code, make a comment with your name, your group, and the two problem names. This will be the system starting Wednesday night, with p2p 3. Slack Elise your code by 7pm the night before you act as interviewer, so I can be sure you worked on the problems yourself. 
 
-Week 2, Day 2 (1/7)  
+Homework4  
 
-1. p2p problems for p2p 3. **Due 1/8.** Remember to [follow these directions](https://techinterviewprep2020.slack.com/archives/CS59N3CP2/p1578349126008400) when submitting the homework.
+1. p2p problems for p2p 3. **Due tk.** 
+Please create a gist containing your solutions or attempt at designing solutions. At the top of your code, make a comment with your name, your group, and the two problem names. This will be the system starting Wednesday night, with p2p 3. Slack Elise your code by 7pm the night before you act as interviewer, so I can be sure you worked on the problems yourself. 
     - `p2p-problem-1`
     - `p2p-problem-2`
 
-Week 2, Day 3 (1/8)  
-Week 2, Day 4 (1/9)  
-Week 2, Day 5 (1/10)  
+Homework5  
 
 1. Implement dutch national flag partitioning for a linked list, this
    is on Hacker Rank. You will receive an invite. *Check your spam for
    the invite if you can't find it, and reach out to me or Elise!* **Due
-   1/13.**
-2. Stacks+queues unit pre-reading <https://drive.google.com/open?id=1MN29NToPCiKZy2_Sg_A7xuR2_BbKaIv-zXEGEkzpc6g>. **Due 1/13.**
+   tk.**
+2. Stacks+queues unit pre-reading <https://drive.google.com/open?id=1MN29NToPCiKZy2_Sg_A7xuR2_BbKaIv-zXEGEkzpc6g>. **Due tk **
 3. Stacks+queues unit intro question, "Implement Max Stack". This is
-   on Hacker Rank. **Due 1/13.**
+   on Hacker Rank. **Due tk.**
 4. Trees unit pre-reading. Review slides on trees, the representation as
    a data structure and **many important definitions** I will use in
    class.
    <https://docs.google.com/presentation/d/1ONw1IU8wVmXGKuK6yUfPti6f2q9603CYQyCrjT7QQMk/edit?usp=sharing>.
-   **Due 1/16.**
+   **Due tk.**
 
-Week 3, Day 1 (1/13)  
+Homework6 
 
 1. Hacker Rank problem `braces`. You will recieve an invite. **Due
-   1/14.**
+   tk.**
 2. [Backspace string
    compare](https://leetcode.com/problems/backspace-string-compare/).
-   **Due 1/14.** `backspace-string-compare`.
+   **Due tk.** `backspace-string-compare`.
 
-Week 3, Day 2 (1/14)  
+Homework7 
 
 1. p2p problems for p2p 4. You must do these problems and read the
-   answers in the same night. **Due 1/15.**
+   answers in the same night. **Due tk.**
 
-Week 3, Day 3 (1/15)  
+Homework8  
 
-1. p2p problems for p2p 5. **Due 1/16.**
+1. p2p problems for p2p 5. **Due tk.**
 2. If you took a mock interview with a Bloomberg engineer today,
    *please fill out [this
    survey](https://docs.google.com/forms/d/e/1FAIpQLSfKCfYaRXMKL80BEdYPIN4ckdPGF7q3S0eOz9OGFsU0F3cjrw/viewform)*.
-   If you haven't done so already. **Due 1/16.**
+   If you haven't done so already. **Due tk.**
 
-Week 3, Day 4 (1/16)  
-Week 3, Day 5 (1/17)  
+Homework9 
 
-1. Read [Recursion pre-work packet](https://drive.google.com/open?id=137-FK-Y2DYqpTkSb5yHm8wHoVEPQ8bh2). **Due 1/20.**
-2. Finish these problems from class. **Due 1/20.**
+1. Read [Recursion pre-work packet](https://drive.google.com/open?id=137-FK-Y2DYqpTkSb5yHm8wHoVEPQ8bh2). **Due tk.**
+2. Finish these problems from class. **Due tk.**
     - <https://leetcode.com/problems/binary-tree-level-order-traversal/>
     - <https://leetcode.com/problems/populating-next-right-pointers-in-each-node/>
 
-Week 4, Day 1 (1/20)  
+Homework10  
 
-1. p2p problems for p2p 6. **Due 1/21.**
+1. p2p problems for p2p 6. **Due tk.**
 
-Week 4, Day 2 (1/21)  
+Homework11
 
-1. Read solutions to p2p problems for p2p 6. **Due 1/22.**
+1. Read solutions to p2p problems for p2p 6. **Due tk.**
 2. Spend 1 hour working on problems from either the Recursion Day 1
    Slides or Recursion Day 2 slides. They are linked in the classwork
-   section under the dates 1/20 and 1/21. **Due 1/21.**
+   section under the dates 1/20 and 1/21. **Due tk.**
 
-Week 4, Day 3 (1/22)  
+Homework12  
 
-1. p2p problems for p2p 7. **Due 1/23.**
+1. p2p problems for p2p 7. **Due tk.**
 2. Find your own problem for p2p 7! You can pick any problem you want
    from LeetCode. Solve it, write at least 3 edge cases and 2 hints to
    present to an interviewee when they're trying to solve your
@@ -313,5 +326,4 @@ Week 4, Day 3 (1/22)
     - your edge cases
     - and your hints.  
 
-Week 4, Day 4 (1/23)  
-Week 4, Day 5 (1/24)  
+  
