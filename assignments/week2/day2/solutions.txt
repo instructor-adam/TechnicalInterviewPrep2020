@@ -1,0 +1,43 @@
+// q1
+    vector<int> replaceElements(vector<int>& arr) {
+    // replace each element 
+        for(int i = 0; i < arr.size(); i++){
+            int max_ = 0;
+    // find max
+            for(int k = i+1; k < arr.size(); k++){
+                if(arr[k] > max_){
+                    max_ = arr[k];
+                }
+            }
+            arr[i] = max_;
+            
+        }
+    // replace last element
+        arr[arr.size()-1] = -1;
+        return arr;
+    }
+
+
+// q2
+    string reverseOnlyLetters(string S) {
+        int j = 0;
+        int k = S.size()-1;
+        
+        while(j < k){
+            if(!isalpha(S[j])){  
+       //         cout << S[j];
+                j++;
+            //    continue;
+            }
+            else if(!isalpha(S[k])){
+       //         cout << S[k];
+                k--;
+                continue;
+            }
+            swap(S[j++], S[k--]);
+      //  cout << endl;
+        }
+        
+        return S;
+    }
+    

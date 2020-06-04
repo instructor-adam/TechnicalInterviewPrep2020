@@ -1,0 +1,90 @@
+/** Intersection of Two Arrays **/
+class Solution {
+public:
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        unordered_set<int> inter1;
+        unordered_set<int> inter2;
+        for(auto x: nums1){
+            inter1.insert(x);
+        }
+        for(auto y: nums2){
+            inter2.insert(y);
+        }
+
+        vector<int> res;
+        if(inter1.size()>inter2.size()){
+        	for(auto a: inter2){
+        		if(inter1.find(a)!=inter1.end()){
+        			res.push_back(a);
+        		}
+        	}
+        }
+        else{
+        	for(auto b: inter1){
+        		if(inter2.find(b)!=inter2.end()){
+        			res.push_back(b);
+        		}
+        	}
+        }
+        return res;
+}
+};
+
+/** Happy Number **/
+class Solution {
+public:
+    bool isHappy(int n) {
+        unordered_set<int> res;
+        
+        // num is the curr sum
+        int num = n;
+        
+        // while num is not 1
+        while(num != 1){
+            if(res.find(num) == res.end()){
+                res.insert(num);
+            }    
+            else{
+                return false;
+            }
+            int sum = 0;
+            while(num != 0){
+                sum += pow(num % 10,2);
+                num = num/10;
+            }
+            num = sum;
+        }
+            return true;  
+    }
+};
+
+
+/** Group Anagrams **/
+string createKey(string word){
+	string key = word;
+	sort(key.begin(); key.end());
+	return key;
+}
+
+vector<vector<string>> groupAnagrams(vector<string>& strs){
+	unordered_map<string,vector<string>> sortAna;
+	for(int i=0; i < strs.size(); i++){
+		string key_ = createKey(strs[i]);
+		if(sortAna.find(key_)!=sortAna.end()){
+			sortAna[key_].push_back(strs[i]);
+		}
+		else{
+			sortAna.insert(pair<string,vector<string>>(key_,strs[i]));
+		}
+	}
+
+	vector<vector<string>> res;
+	unordered_map<string,vector<string>>::iterator itr;
+	for(itr=sortAna.begin(); itr=sortAna.end(); itr++){
+		for(int j=0; j<itr->second.size(); j++){
+			res.push_back(itr->second[j]);
+		}
+	}
+
+	return res;	
+}
