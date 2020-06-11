@@ -1,5 +1,6 @@
 
 def isValid(self, s):
+    
     if len(s) == 0:
         return True
 
@@ -9,6 +10,7 @@ def isValid(self, s):
     stack = []
     match = ('()', '[]', '{}')
     stack.append(s[0])
+
     for i in range(1, len(s)):
         if len(stack) > 0 and (stack[-1] + s[i]) in match:
             stack.pop()
